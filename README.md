@@ -21,5 +21,10 @@ Additional stratified visualizations were performed to understand sentiment vari
 
 Some of the outputs:
 
+![Image](https://github.com/user-attachments/assets/3e50ef55-7798-4c35-997e-e607b1156906)
+![Image](https://github.com/user-attachments/assets/d969a323-3bc4-47b9-b6c6-73d0321e88cc)
 
+![Image](https://github.com/user-attachments/assets/fcd0926d-0b77-4f7c-8356-f0afe6db3ac9)
+![Image](https://github.com/user-attachments/assets/3d49f273-dc31-4e8b-8e7b-77fcc9b93e28)
+![Image](https://github.com/user-attachments/assets/4cb40c30-0a62-4294-9767-2de0043b94eb)
 
